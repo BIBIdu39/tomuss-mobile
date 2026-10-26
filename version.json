@@ -1,9 +1,9 @@
 {
-  "version": "1.7.0",
-  "buildNumber": 21,
+  "version": "1.7.1",
+  "buildNumber": 22,
   "releaseDate": "2026-10-26",
-  "title": "Tomuss Mobile v1.7.0",
-  "releaseNotes": "Migration GitHub Releases, Capsule Dynamic HUD, Dark mode par defaut",
-  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.0/TomussMobile.apk",
+  "title": "Tomuss Mobile v1.7.1",
+  "releaseNotes": "Telechargement direct dans l'application sans navigateur et signature Release officielle",
+  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.1/TomussMobile.apk",
   "mandatory": false
 }
