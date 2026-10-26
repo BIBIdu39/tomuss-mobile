@@ -1,9 +1,9 @@
 {
-  "version": "1.7.2",
-  "buildNumber": 23,
+  "version": "1.7.3",
+  "buildNumber": 24,
   "releaseDate": "2026-10-26",
-  "title": "Tomuss Mobile v1.7.2",
-  "releaseNotes": "Barre de recherche et filtres desactives par defaut, page Notes en attente accessible depuis la Moyenne Generale",
-  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.2/TomussMobile.apk",
+  "title": "Tomuss Mobile v1.7.3",
+  "releaseNotes": "Retours haptiques legers sur les clics et Widget Android Dernieres Notes Publiees avec leur matiere",
+  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.3/TomussMobile.apk",
   "mandatory": false
 }
