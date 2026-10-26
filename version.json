@@ -1,9 +1,9 @@
 {
-  "version": "1.6.0",
-  "buildNumber": 19,
+  "version": "1.6.1",
+  "buildNumber": 20,
   "releaseDate": "2026-10-26",
-  "title": "Tomuss Mobile V5 v1.6.0",
-  "releaseNotes": "Mode sombre Indigo Velours par défaut, affichage épuré de l'heure de synchronisation en haut à gauche et nouvelle interface de mise à jour Dynamic HUD.",
-  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.6.0/TomussMobile-v1.6.0.apk",
+  "title": "Tomuss Mobile V5 v1.6.1",
+  "releaseNotes": "Mode sombre activé par défaut, affichage épuré de l'heure de synchronisation en haut à gauche et nouvelle fenêtre de mise à jour Dynamic HUD via GitHub Releases.",
+  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.6.1/TomussMobile-v1.6.1.apk",
   "mandatory": false
 }
