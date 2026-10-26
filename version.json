@@ -1,9 +1,9 @@
 {
-  "version": "1.7.3",
-  "buildNumber": 24,
+  "version": "1.7.4",
+  "buildNumber": 25,
   "releaseDate": "2026-10-26",
-  "title": "Tomuss Mobile v1.7.3",
-  "releaseNotes": "Retours haptiques legers sur les clics et Widget Android Dernieres Notes Publiees avec leur matiere",
-  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.3/TomussMobile.apk",
+  "title": "Tomuss Mobile v1.7.4",
+  "releaseNotes": "Correction des vibrations haptiques materielles et Widgets 2x1 (1 note) et 2x2 (3 notes) sans moyenne",
+  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.4/TomussMobile.apk",
   "mandatory": false
 }
