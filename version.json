@@ -1,9 +1,9 @@
 {
-  "version": "1.7.1",
-  "buildNumber": 22,
+  "version": "1.7.2",
+  "buildNumber": 23,
   "releaseDate": "2026-10-26",
-  "title": "Tomuss Mobile v1.7.1",
-  "releaseNotes": "Telechargement direct dans l'application sans navigateur et signature Release officielle",
-  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.1/TomussMobile.apk",
+  "title": "Tomuss Mobile v1.7.2",
+  "releaseNotes": "Barre de recherche et filtres desactives par defaut, page Notes en attente accessible depuis la Moyenne Generale",
+  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.2/TomussMobile.apk",
   "mandatory": false
 }
