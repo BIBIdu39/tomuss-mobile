@@ -1,9 +1,9 @@
 {
-  "version": "1.7.5",
-  "buildNumber": 26,
-  "releaseDate": "2026-10-26",
-  "title": "Tomuss Mobile v1.7.5",
-  "releaseNotes": "Widget Design 2 (Lisere Colore + Apercu dans le menu widgets) & Option pour activer/desactiver les vibrations dans les Reglages",
-  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.5/TomussMobile.apk",
+  "version": "1.7.6",
+  "buildNumber": 27,
+  "releaseDate": "2026-10-28",
+  "title": "Tomuss Mobile v1.7.6",
+  "releaseNotes": "Correction definitive des fermetures et crashs au demarrage (conflit tache arriere-plan Android, KeyStore et WebView)",
+  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.6/TomussMobile.apk",
   "mandatory": false
 }
