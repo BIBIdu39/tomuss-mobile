@@ -1,9 +1,9 @@
 {
-  "version": "1.7.6",
-  "buildNumber": 27,
+  "version": "1.8.0",
+  "buildNumber": 28,
   "releaseDate": "2026-10-28",
-  "title": "Tomuss Mobile v1.7.6",
-  "releaseNotes": "Correction definitive des fermetures et crashs au demarrage (conflit tache arriere-plan Android, KeyStore et WebView)",
-  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.7.6/TomussMobile.apk",
+  "title": "Tomuss Mobile v1.8.0 (V6)",
+  "releaseNotes": "Nouvelle cinématique de démarrage, synchronisation Tomuss instantanée dès le lancement et interface épurée Éther Prismatique",
+  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.8.0/TomussMobile.apk",
   "mandatory": false
 }
