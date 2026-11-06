@@ -1,9 +1,9 @@
 {
-  "version": "1.9.0",
-  "buildNumber": 30,
+  "version": "1.9.1",
+  "buildNumber": 31,
   "releaseDate": "2026-11-06",
-  "title": "Tomuss Mobile v1.9.0",
-  "releaseNotes": "Intégration de la maquette officielle BUT Informatique (C1 à C6), gestionnaire multi-profils et partage instantané par QR Code",
-  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.9.0/TomussMobile.apk",
+  "title": "Tomuss Mobile v1.9.1",
+  "releaseNotes": "Reconnaissance enrichie des matieres de maths et coefficients BUT Informatique",
+  "apkUrl": "https://github.com/BIBIdu39/tomuss-mobile/releases/download/v1.9.1/TomussMobile.apk",
   "mandatory": false
 }
